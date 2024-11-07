@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'caste_study_2_BC.blg'
+[99] biber:340> INFO - === Thu Nov  7, 2024, 12:28:39
+[121] Biber.pm:418> INFO - Reading 'caste_study_2_BC.bcf'
+[193] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[207] bbl.pm:654> INFO - Writing 'caste_study_2_BC.bbl' with encoding 'UTF-8'
+[208] bbl.pm:757> INFO - Output to caste_study_2_BC.bbl
+[208] Biber.pm:130> WARN - The file 'caste_study_2_BC.bcf' does not contain any citations!
+[208] Biber.pm:132> INFO - WARNINGS: 1
